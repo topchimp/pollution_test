@@ -7,3 +7,4 @@
 
 ## Useful tools used along the way 
 * [export-dynamodb](https://pypi.org/project/export-dynamodb/) Python module to export dynamodb data as JSON or CSV that gets around the consloe limit of 100 rows
+* [fermata](https://github.com/iccir/Fermata) Lets a Mac keep running when the lid is closed. Would have been useful for collecting readings
